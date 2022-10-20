@@ -1,0 +1,3 @@
+C:\Users\E10379\Desktop\git_archivos
+DIR
+git status -s
